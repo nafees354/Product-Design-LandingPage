@@ -7,4 +7,4 @@
 
 ## Screenshots
 
-![App Screenshot](15.png)
+![App Screenshot](15.jpg)
